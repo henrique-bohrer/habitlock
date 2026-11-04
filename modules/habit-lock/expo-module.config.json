@@ -1,0 +1,10 @@
+{
+  "platforms": ["android", "ios"],
+  "android": {
+    "package": "com.habitlock",
+    "packageClasses": ["com.habitlock.HabitLockPackage"]
+  },
+  "ios": {
+    "modules": ["HabitLockModule"]
+  }
+}
